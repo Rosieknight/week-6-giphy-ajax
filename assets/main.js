@@ -1,5 +1,5 @@
 //Theme is "Movies I've seen."
-var topics =["The Lego Movie", "Star Wars", "Ghostbusters", "Lord of the Rings", "Robocop", "Jurassic Park", "Terminator 2", "The Pincess Bride", "Back to the Future", "Batman", "Harry Potter", "Men In Black", "Hidden Figures", "Captain America: The First Avenger", "Indiana Jones and the Last Crusade", "Muppet Treasure Island", "Labyrinth", "Superman", "Spaceballs", "2001: A Space Odyssey", "Watership Down", "Nightmare Before Christmas", "The Sixth Sense", "Rogue One: Star Wars Story"];
+var topics =["The Lego Movie", "Star Wars", "Ghostbusters", "Lord of the Rings", "Robocop", "Jurassic Park", "Catch Me If You Can", "The Princess Bride", "Back to the Future", "Batman", "Harry Potter", "Men In Black", "Hidden Figures", "Captain America: The First Avenger", "Indiana Jones and the Last Crusade", "Muppet Treasure Island", "Labyrinth", "Superman", "Spaceballs", "2001: A Space Odyssey", "Watership Down", "Nightmare Before Christmas", "The Sixth Sense", "Rogue One: Star Wars Story"];
 
 //Setting up a function to make the buttons.
 function buttonMaker(){
